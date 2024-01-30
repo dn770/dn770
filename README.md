@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on finding a new job opportunity.
 - 📫 How to reach me: Feel free to contact me by email at NetanelD88@gmail.com or connect with me on LinkedIn.
-- 😄 Pronouns: Netnael Dahan
+- 😄 Pronouns: Netanel Dahan
 - ⚡ Fun fact: I enjoy playing the piano and playing chess.
 
 <!---
