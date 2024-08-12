@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dn770
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on finding a new job opportunity.
 - 📫 How to reach me: Feel free to contact me by email at NetanelD88@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: Netanel Dahan
